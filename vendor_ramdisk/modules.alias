@@ -291,7 +291,7 @@ alias of:N*T*Cqcom,spcomC* spcom
 alias usbfunc:ccid usb_f_ccid
 alias of:N*T*Cqcom,diwali-gcc gcc_diwali
 alias of:N*T*Cqcom,diwali-gccC* gcc_diwali
-alias i2c:ps5169 redriver ssusb_redriver_ps5169
+alias i2c:ps5169_redriver ssusb_redriver_ps5169
 alias of:N*T*Cqcom,usb-snps-eusb2-phy phy_msm_snps_eusb2
 alias of:N*T*Cqcom,usb-snps-eusb2-phyC* phy_msm_snps_eusb2
 alias of:N*T*Cqcom,ufs-phy-qmp-v3 phy_qcom_ufs_qmp_v3
@@ -393,6 +393,8 @@ alias of:N*T*Cqcom,pm8005-gpio pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pm8005-gpioC* pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pm8916-gpio pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pm8916-gpioC* pinctrl_spmi_gpio
+alias of:N*T*Cqcom,pm8937-gpio pinctrl_spmi_gpio
+alias of:N*T*Cqcom,pm8937-gpioC* pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pm8941-gpio pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pm8941-gpioC* pinctrl_spmi_gpio
 alias of:N*T*Cqcom,pm8950-gpio pinctrl_spmi_gpio
